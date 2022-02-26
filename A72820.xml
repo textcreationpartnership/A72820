@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>1570. The book of ordinances belonging to the Company of Tylers and Brick-Layers incorporated within the city of London vvhich ordinances have been perused, allowed, ratified, and confirmed by the Right Honourable, Sir Nicholas Bacon Knight, lord keeper of the Great Seal of England; William Marquess of Winchester, lord high treasurer of England, and Sir Robert Catlyn Knight, lord chief justice of the Kings-Bench, by their writing under their hands and seals, bearing date the fourteenth day of July, in the thirteenth year of the reign of our Sovereign Lady Queen Elizabeth.</title>
+            <author>Worshipful Company of Tylers and Bricklayers, London.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72820</idno>
+            <idno type="STC">STC 16786.14</idno>
+            <idno type="STC">ESTC S125115</idno>
+            <idno type="EEBO-CITATION">99898857</idno>
+            <idno type="PROQUEST">99898857</idno>
+            <idno type="VID">151071</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151071)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1997:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>1570. The book of ordinances belonging to the Company of Tylers and Brick-Layers incorporated within the city of London vvhich ordinances have been perused, allowed, ratified, and confirmed by the Right Honourable, Sir Nicholas Bacon Knight, lord keeper of the Great Seal of England; William Marquess of Winchester, lord high treasurer of England, and Sir Robert Catlyn Knight, lord chief justice of the Kings-Bench, by their writing under their hands and seals, bearing date the fourteenth day of July, in the thirteenth year of the reign of our Sovereign Lady Queen Elizabeth.</title>
+                  <author>Worshipful Company of Tylers and Bricklayers, London.</author>
+               </titleStmt>
+               <extent>[2], 19, [1]   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>London [:</pubPlace>
+                  <date>ca. 1640]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Caption title on p. 15: The oath of the freemen.</note>
+                  <note>Reproduction of original in the Guildhall Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bacon, Nicholas, --  Sir, 1509-1579 --  Early works to 1800.</term>
+               <term>Bricklayers --  England --  London --  Early works to 1800.</term>
+               <term>Freemen --  England --  London --  Early works to 1800.</term>
+               <term>Tile layers --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151071:1" rendition="simple:additions"/>
+            <p>1570.</p>
+            <p>THE BOOK OF ORDINANCES Belonging to the Company of <hi>TYLERS</hi> and <hi>BRICK-LAYERS</hi> Incorporated within the City of <hi>London:</hi> VVhich Ordinances have been Peruſed, Allowed, Rati<g ref="char:EOLhyphen"/>fied, and Confirmed by the Right Honourable, Sir <hi>Nicholas Bacon</hi> Knight, Lord Keeper of the Great Seal of <hi>England; William</hi> Marqueſs of <hi>Winche<g ref="char:EOLhyphen"/>ſter,</hi> Lord High Treaſurer of <hi>England,</hi> and Sir <hi>Robert Catlyn</hi> Knight, Lord Chief Juſtice of the <hi>Kings-Bench,</hi> By their writing under their Hands and Seals, bearing date the Fourteenth day of <hi>July,</hi> in the thirteenth Year of the Reign of our Sovereign Lady <hi>QUEEN ELIZABETH.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed, <hi>&amp;c.</hi>
+            </p>
+            <pb facs="tcp:151071:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:151071:2"/>
+            <p>FIRST it is Ordained, That it ſhall and may be law<g ref="char:EOLhyphen"/>ful <note place="margin">To ſearch and try Earth,</note> to the Maſter and Wardens of the Fellowſhip of <hi>Tylers</hi> and <hi>Brick-layers</hi> of <hi>London,</hi> or to two of them, or to two other honeſt men of the ſaid Art, by the ſame Maſter and Wardens to be appointed twice every year, or oftener if they ſhall think it good, to enter into all and every place and places where any earth or clay ſhall be digged, within fifteen Miles compaſs of the ſame City of <hi>London,</hi> to make any Tyle or Brick of, or where any Sand, Chalk, or other ſtone ſhall be digged or broken, to be occupied with or about the laying of Brick or Tyle, or for the making of Lyme; And to view, ſearch, and under<g ref="char:EOLhyphen"/>ſtand by their knowledge and diſcretions, whether the ſaid earth or clay be good and lawful ſtuff, and well ſeaſoned and tempered to make brick &amp; tyle of, or no; and whether the Stone, Chalk, and Sand be meet and convenient to be <note place="margin">Stone &amp; Chalk</note> occupied in the ſame Art, for the making of Lyme, or to be tempered with Lyme, And whether every Brick meant <note place="margin">Brick,</note> and intended to be uttered or put to ſale, be of the length of nine inches, and in breadth four inches and one quar<g ref="char:EOLhyphen"/>ter, and two inches and one quarter in thickneſs, as they ought to be; And whether every plain Tyle do con<g ref="char:EOLhyphen"/>tain <note place="margin">Plain Tyle,</note> in length ten inches and a half, and in breadth ſix in<g ref="char:EOLhyphen"/>ches and a quarter of an inch, and in thickneſs half an inch and a quarter, as it ought to be; And whether every Pa<g ref="char:EOLhyphen"/>ving-tyle <note place="margin">Paving-tyle,</note> be of good, ſufficient, lawful, and merchantable ſtuff; And whether every rough Tyle do contain in <note place="margin">Rough Tyle,</note> length thirteen inches, and in thickneſs one inch, with convenient depth accordingly, as they ought to do; And whether every Corner-tyle and Cover tyle doth contain <note place="margin">Corner-tyle, Cover-tyle.</note>
+               <pb n="2" facs="tcp:151071:3"/> in length ten inches and a half, with convenient thickneſs and depth accordingly, as they ought to do. And if the ſaid Maſter and Wardens, or two of them, do finde any ſuch default with any the Stuff aforeſaid, meant to be put to ſale, as is aforeſaid; Or that any manner of perſon or perſons ſhall bring, or cauſe to be brought any kinde of Tyle, Brick, or Lyme made of inſufficient ſtuff, or not of the ſaid aſſiſes; or any Sand not being lawful, meet, con<g ref="char:EOLhyphen"/>venient, or not ſufficient, to be ſold, and not occupied in <note place="margin">Sand.</note> the ſame Art, within the City of <hi>London,</hi> the Suburbs thereof, or within fifteen miles compaſs of the ſame City, Then it ſhall be to the ſaid Maſter and Wardens then for <note place="margin">Penalty to the offenders.</note> the time being, and to their Succeſſors, or to two of them, to break in pieces the ſaid Brick and Tyle ſo inſuf<g ref="char:EOLhyphen"/>ficiently <note place="margin">The ill Tyles and Brick to break in pie<g ref="char:EOLhyphen"/>ces, and alſo to fine and amerce every owner and maker within one moneth, in their Court.</note> or ill made, as is aforeſaid, or wanting the thick<g ref="char:EOLhyphen"/>neſs, breadth, or length aforeſaid; and further to fine and amerce every of the owners and makers of the ſaid Brick, Tyle, Lyme, or Sand, in the Court of the ſaid Maſter and Wardens within one moneth after, to be kept according to the diſcretions of the ſaid Maſter and Wardens.</p>
+            <p>
+               <hi>Item,</hi> That the ſaid Maſter and Wardens, or two of them, ſhall and may ſearch and try every Cart that ſhall <note place="margin">Search for Carts.</note> come to the City of <hi>London,</hi> or the Liberties or Suburbs of the ſame, or fifteen miles compaſs, with Tyle or Sand to be ſold, whether the Tyle cart do contain one thou<g ref="char:EOLhyphen"/>ſand tyle to be carried therein at the leaſt; And whether the ſaid Sand-cart do contain fully the quantity of eigh<g ref="char:EOLhyphen"/>teen buſhels at the leaſt, and ſhall ſeal the ſame, or cauſe to be ſealed the ſame Cart with the Seal or Mark of the Ci<g ref="char:EOLhyphen"/>ty <note place="margin">Power to fine and amerce the owners or ſel<g ref="char:EOLhyphen"/>lers in their Court, accord<g ref="char:EOLhyphen"/>ing to the quantity of the offence.</note> of <hi>London;</hi> And if they finde any ſuch default, then it ſhall be lawful to the ſaid Maſter and Wardens, and their Succeſſors for the time being, to fine and amerce the owners or ſellers of the ſaid Tyle or Sand, in the Court of
+<pb n="3" facs="tcp:151071:3"/> the ſaid Maſter and Wardens within one month after ſuch default to be found, according to the quantity of their ſaid offence or offences, as by the ſaid Maſter and War<g ref="char:EOLhyphen"/>dens ſhall be thought meet and convenient; And the ſame Fine and Amerciament to be levyed and imployed to the uſe of the Maſter, Wardens, and Fellowſhip of the Company aforeſaid.</p>
+            <p>
+               <hi>Item,</hi> That it ſhall be lawful to the Maſter and War<g ref="char:EOLhyphen"/>dens <note place="margin">Search for Lyme ſacks &amp; Lyme.</note> of the ſaid Fellowſhip, or two of them for the time being, as often, and when they ſhall think good, to ſearch and try all and every ſack or other thing, wherein any Lyme is, or ſhall be brought to the City of <hi>London</hi> to be ſold, whether the ſame Lyme be well and ſufficiently bur<g ref="char:EOLhyphen"/>ned; And whether every ſuch ſack being knit, do con<g ref="char:EOLhyphen"/>tain of Lyme after it is burnt, half a buſhel by full mea<g ref="char:EOLhyphen"/>ſure, and if they finde any ſuch default, then to fine and <note place="margin">Power to fine and amerce.</note> amerce the owners or ſellers of the ſaid Lyme in the Court aforeſaid, as is aforeſaid, and the ſame Fine and Amercia<g ref="char:EOLhyphen"/>ment to be levyed and imployed by the ſaid Maſter and Wardens, to the uſe of the ſaid Maſter, VVardens, and Fellowſhip of the Company aforeſaid.</p>
+            <p>
+               <hi>Alſo,</hi> That no manner perſon or perſons occupying <note place="margin">Working with ill Brick or Tyle.</note> or exerciſing the Art of Tylers or Brick-layers within the City of <hi>London,</hi> the Suburbs thereof, or fifteen miles com<g ref="char:EOLhyphen"/>paſs of the ſame, ſhall from and after the Feaſt of <hi>St. Mi<g ref="char:EOLhyphen"/>chael</hi> the Archangel next coming, lay or cauſe to be laid upon any Houſe, Pent-houſe, or other Room covered with tyle, or any Brick-wall, within the ſame City, or the Sub<g ref="char:EOLhyphen"/>urbs thereof, or within fifteen miles diſtant from the ſame City, any Craſyer, or Samuel Tyle or Brick, or any other Tyle or Brick, then ſuch Tyle or Brick as ſhall be ſuffici<g ref="char:EOLhyphen"/>ently and workmanly made, and wrought of good and lawful ſtuff, well annelled and burned, and of the aſſizes
+<pb n="4" facs="tcp:151071:4"/> before expreſſed, upon pain of forfeiture for every time <note place="margin">Forfeiture of the Brick and Tyle by ſeizure</note> ſo doing, the ſaid brick and tyle to the ſaid Maſter and VVardens, and their Succeſſors, which they ſhall take and ſeize to their beſt uſe and commodity.</p>
+            <p>
+               <hi>And,</hi> That no manner of perſon or perſons uſing the <note place="margin">For Lathing.</note> ſaid Art or Myſtery, ſhall lathe aſunder above the ſcant<g ref="char:EOLhyphen"/>ling of ſeven inches, laying one filling Lath in the middeſt any manner of Houſe, Pent-houſe or other Shed, within the ſame City, or fifteen miles compaſs of the ſame, with any other Lath then good, ſufficient, and lawful heart lath, upon pain of forfeiture for every ſuch offence, twenty ſhil<g ref="char:EOLhyphen"/>lings, the ſame to be levyed and imployed to the uſe of <note place="margin">20 s. <hi>the For<g ref="char:EOLhyphen"/>feiture.</hi>
+               </note> the ſaid Maſter, VVardens and Fellowſhip, as is afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p>
+               <hi>And,</hi> That the ſaid Maſter and VVardens of the ſaid <note place="margin">To ſearch for workmanſhip.</note> Art or Myſtery of Tylers and Bricklayers, or two of them for the time being, ſhall have full power and authority to ſearch and overſee, whether that all manner of Reparati<g ref="char:EOLhyphen"/>ons and works of tyling and brick-laying within the ſaid City, and the ſuburbs thereof, and within fifteen miles di<g ref="char:EOLhyphen"/>ſtant from the ſame City, be well, ſufficiently, and work<g ref="char:EOLhyphen"/>manly made and laid, and all ſuch Reparations and works of tyling and brick-laying, as they finde not well, or in<g ref="char:EOLhyphen"/>ſufficient, or not workmanly made, within the ſame City and the ſuburbs of the ſame, or within fifteen miles diſtant from the ſame, by any occupying the ſame Art or Myſte<g ref="char:EOLhyphen"/>ry, to cauſe and compel every ſuch perſon and perſons as took upon him or them the making thereof, the ſame re<g ref="char:EOLhyphen"/>parations and works ſufficiently &amp; ſubſtantially to amend; And over that, to cauſe the ſame perſon for his miſdoing, to pay ſix ſhillings and eight pence, to be levyed and im<g ref="char:EOLhyphen"/>ployed <note place="margin">
+                  <hi>Forfeiture</hi> 6 2. 8 d.</note> in form aforeſaid, to the uſes aforeſaid.</p>
+            <pb n="5" facs="tcp:151071:4"/>
+            <p>
+               <hi>Alſo,</hi> That it ſhall be lawful to the ſaid Maſter and <note place="margin">Search for workmanſhip by forreins.</note> VVardens of the ſaid Art, or two of them for the time being, at all times from henceforth, at their wills and plea<g ref="char:EOLhyphen"/>ſures, to ſearch, try, and view whether that all manner of reparations and works of tyling and brick-laying done by forrein of the ſaid Art or Myſtery, in any place or places within fifteen miles diſtant of the ſame City, be ſufficient<g ref="char:EOLhyphen"/>ly and workmanly made, and all ſuch reparations and works of tyling and brick-laying, as they finde inſufficient and not workmanly made and wrought, within the ſame ſpace of fifteen miles, then to preſent every ſuch default and perſon ſo offending, unto the Juſtices of the Queens <note place="margin">The Fine to be taxed by the Juſtices of the Kings Bench.</note> Bench, at the next Term after that ſuch Fines may be tax<g ref="char:EOLhyphen"/>ed and ſet upon ſuch offender, as may be for the profit of the builder, and commodity of the Commonwealth; the one half of all ſuch Fines ſhall be to the onely uſe and be<g ref="char:EOLhyphen"/>hoof of the Queens Majeſty, her Heirs and Succeſſors, and the other half to be imployed to the Maſter, VVar<g ref="char:EOLhyphen"/>dens, and Fellowſhip of the Company aforeſaid.</p>
+            <p>
+               <hi>Alſo,</hi> That every perſon being free of the ſaid Art or <note place="margin">Obedience, and not coming to the Hall.</note> Myſtery of Tylers and Brick-layers, ſhall be obedient to the Maſter and VVardens of the ſaid Art and Myſtery, for the time being, and ſhall come to every Aſſembly of the ſaid Maſter, VVardens and Fellowſhip of the ſame Craft, when they ſhall be warned by the Beadle of the ſame Fel<g ref="char:EOLhyphen"/>lowſhip, either for the Election of any Maſter or VVar<g ref="char:EOLhyphen"/>dens of the ſame Art or Myſtery, or for the worſhip of the City of <hi>London,</hi> to attend and wait upon the Mayor and Sheriffs of the City for the time being, at their going to <hi>Weſtminſter,</hi> or at any other time, or when they ſhall be called for any other cauſe or matter, as the Freemen of all other Companies in <hi>London</hi> do (except they have a good, reaſonable, and ſufficient excuſe) upon pain of for<g ref="char:EOLhyphen"/>feiture
+<pb n="6" facs="tcp:151071:5"/> for every time making default 12 pence, the ſame to be imployed to the uſe of the Maſters, VVardens, and Fellowſhip of the art or myſtery of Tylers and Bricklayers, as is aforeſaid.</p>
+            <p>
+               <hi>Alſo,</hi> That every perſon of the ſaid craft of Tylers and <note place="margin">Preſenting and binding Ap<g ref="char:EOLhyphen"/>prentices.</note> Bricklayers, being free of the ſame craft, and alſo all for<g ref="char:EOLhyphen"/>reins, occupying the ſame craft, and inhabiting within 15 myles of the ſame city of <hi>London,</hi> that ſhall hereafter take any apprentice or ſervant, ſhall preſent and ſhew the ſame apprentice or ſervant, with his indenture of appren<g ref="char:EOLhyphen"/>tice-hood, or covenant Indenture, which herafter ſhall be made by the Clerk of the ſaid Company, unto the War<g ref="char:EOLhyphen"/>dens of the ſaid craft for the time being, within a quarter of a year, next after the date of the ſame Indenture, or co<g ref="char:EOLhyphen"/>venant Indenture, to the intent that they may under<g ref="char:EOLhyphen"/>ſtand under what form the ſame apprentice or ſervant is <note place="margin">10 s. <hi>Fine for this.</hi>
+               </note> bound.</p>
+            <p>
+               <hi>And,</hi> That no manner of perſon or perſons, being free <note place="margin">Prentice for ſeven years, and no leſs.</note> of the ſaid Art or Myſtery, take any apprentice for any leſs terme then for ſeaven years, according to the cuſtome of <hi>London,</hi> upon payne to pay forty ſhillings as often times as he doth the contrary in any of the ſame points, in this article ſpecified, to be levyed and imployed in maner and form aforeſaid.</p>
+            <p>
+               <hi>Alſo,</hi> That no perſon of the ſaid craft from henceforth <note place="margin">For undecent words.</note> revile or rebuke the Maſter or Wardens of the ſaid Craft for the time being, or any of them, or rayl or ſlander any of them, or any other perſon of the ſame craft, or any Of<g ref="char:EOLhyphen"/>ficer or Clerk belonging to the ſame craft, with unfit<g ref="char:EOLhyphen"/>ting or undecent words or language, in open audience of people, or in any other place or places ſecretly, upon pain to pay ſix ſhillings eight pence, as often as he ſo doth, to <note place="margin">Six ſhillings eight pence.</note> be levyed and imployed to the uſe of the ſaid Maſter,
+<pb n="7" facs="tcp:151071:5"/> VVardens, and Fellowſhip, in manner and form afore rehearſed.</p>
+            <p>
+               <hi>Item,</hi> It is Ordained, That from henceforth no per<g ref="char:EOLhyphen"/>ſon <note place="margin">Admitting of Apprentices to able men.</note> of the ſaid Craft take any Apprentice to him to be bound by Indenture, afore the VVardens and Aſſiſtants of the ſaid Fellowſhip for the time being, have firſt known, approved and admitted the ſaid Maſter or perſon ſo to have or take ſuch an Apprentice, to be able as well in cunning, ſufficient to, and for the inſtruction of his ſaid Apprentice in the ſaid Faculty, as in ſubſtance and otherwiſe for the keeping and ſuſtaining of the ſaid Ap<g ref="char:EOLhyphen"/>prentice in all things neceſſary and convenient to the ſame, upon pain of forfeiture of forty ſhillings for every Apprentice taken contrary to this ſaid Ordinance, to be imployed to the uſe of the ſame Maſter, VVardens and Fellowſhip, as is aforeſaid.</p>
+            <p>
+               <hi>Alſo</hi> it is Ordained, That no perſon of the ſaid Craft, <note place="margin">No perſon to keep but one Apprentice, ex<g ref="char:EOLhyphen"/>cept he have been younger Warden.</note> being a Freeman of the ſaid City, and one of the Clo<g ref="char:EOLhyphen"/>thing or Livery, except he hath been firſt younger War<g ref="char:EOLhyphen"/>den, ſhall from henceforth have, take, and keep in his ſervice at once, any more Apprentices then one, to the intent that the ſame Apprentice may be the better ap<g ref="char:EOLhyphen"/>plied, learned and occupied in his ſaid Faculty. And if any perſon of the ſaid craft being of the Clothing, and hath not been younger Warden, do contrary to this Ordinance, he ſhall forfeit for every time ſo doing, Forty ſhillings, to be imployed as is aforeſaid.</p>
+            <p>
+               <hi>Alſo</hi> it is Ordained, That if any perſon of the ſaid <note place="margin">Supplanting.</note> craft from henceforth, by any ſiniſter labour, mean, or procurement ſhall, or do ſupplant, undermine, or put out any other perſon of the ſaid craft from any work by any ſuch perſon firſt taken in hand (except that the
+<pb n="8" facs="tcp:151071:6"/> firſt workman be fully paid off, and for his wages, and alſo diſcharged of the ſame work by the Maſter and Ruler of the ſame that ſhall ſet him on work, or by his or their deputy) that then the perſon ſo doing ſhall forfeit for every time ſo doing, forty ſhillings, to be ap<g ref="char:EOLhyphen"/>plyed as is laſt aforeſaid.</p>
+            <p>
+               <hi>It is</hi> Ordained and Eſtabliſhed, That none of the ſaid <note place="margin">None to take any but as Apprentice.</note> Craft being a Freeman, from this day forward, ſhall take no ſervant by covenant for two or three years, more or leſs, and ſet them to their crafts; but ſhall onely take them as their Apprentice for ſeven years or more, after the cuſtom of the City of <hi>London,</hi> upon pain of forfeiture of forty ſhillings, to be levyed and imployed to the uſe as is aforeſaid.</p>
+            <p>
+               <hi>Alſo</hi> it is Ordained by theſe Preſents, That no Free<g ref="char:EOLhyphen"/>man <note place="margin">None to have any Appren<g ref="char:EOLhyphen"/>tice, except he hath been out of his years four years.</note> of the ſaid Company, being of the Yeomanry, and out of the Clothing, ſhall take or have to him any Ap<g ref="char:EOLhyphen"/>prentice or ſervant, before the ſaid Freeman or Maſter have been firſt out of his years by the ſpace of four full years, from the day of the making free of the ſaid Free<g ref="char:EOLhyphen"/>man or Maſter, to be accompted, and then to take one and no more, at, by, and with the diſcretions of the Ma<g ref="char:EOLhyphen"/>ſter, VVardens, and Aſſiſtants of the ſame Company, until he cometh to be of the Livery or Clothing; And that the ſaid Freeman ſhall pay and bear ſcot and lot, and all other charges, as a Freeman of the City of <hi>London</hi> ought, and is bound to do, upon pain of Forty ſhil<g ref="char:EOLhyphen"/>lings, to be imployed to the uſe of the Commonalty of the ſaid Company.</p>
+            <p>
+               <hi>Alſo</hi> it is Ordained, That every Freeman taking any <note place="margin">Enrolement of Apprentices.</note> Apprentice, ſhall cauſe the ſame Apprentice to be In<g ref="char:EOLhyphen"/>rolled in the <hi>Chamber</hi> of <hi>London,</hi> according to the cu<g ref="char:EOLhyphen"/>ſtom
+<pb n="9" facs="tcp:151071:6"/> of the ſame City within one year after the date thereof, upon pain of forfeiture of ſix ſhillings eight pence, to be imployed to the uſe of the Maſter, War<g ref="char:EOLhyphen"/>dens and Company of the Fellowſhip aforeſaid.</p>
+            <p>
+               <hi>Alſo,</hi> That it ſhall be lawful for the Maſter and <note place="margin">A Beadle.</note> VVardens aforeſaid, to have a Beadle to be attendant upon them to warn the Company, to come to their Hall or other place, where any Aſſembly ſhall be for any matter touching the ſaid Fellowſhip, or other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p>
+               <hi>And,</hi> Alſo to have a Clerk to make their Inden<g ref="char:EOLhyphen"/>tures <note place="margin">A Clark.</note> of apprentice-hood, and Leaſes and Conveyan<g ref="char:EOLhyphen"/>ces of their Lands, and to be with them at every Court day, and to Regiſter what is done, every of the ſaid Court dayes.</p>
+            <p>
+               <hi>And,</hi> That it ſhall be lawful to the ſaid Ma<g ref="char:EOLhyphen"/>ſter <note place="margin">To diſtrain for the penalties.</note> and VVardens, and their Succeſſours, to diſtrain for any of the penalties before-expreſſed, in any of the houſes of the ſaid offenders, aſwell free as forrein, and to detaine the diſtreſs ſo taken, until ſuch time as the ſame offender ſhall have paid unto the ſaid Maſter and VVardens, ſuch pains and penalties as ſo ſhall be ſet upon him for this offence.</p>
+            <p>
+               <hi>And</hi> if any matter of variance riſe between any of <note place="margin">To appeaſe con<g ref="char:EOLhyphen"/>troverſies.</note> the ſaid Fellowſhip, for any wrong or matter perſonal, then the Maſter and Wardens of the ſaid Fellowſhip, upon complaint to any of them made, ſhall have full power and authority by theſe preſents, to call both the ſaid parties before them, and to hear and determine the ſame matter, if they can.</p>
+            <p>
+               <hi>Alſo,</hi> That it ſhall be lawful for the Maſter and <note place="margin">To keep Courts</note> VVardens of the ſaid Fellowſhip for the time being,
+<pb n="10" facs="tcp:151071:7"/> to call to them the moſt part of ſuch as have been VVardens of the ſaid Company of Aſſiſtants, and to keep their Courts at ſuch times, and as often as to them ſhall be thought good, and by the conſent of the moſt part of them, to take order for ſuch as are offen<g ref="char:EOLhyphen"/>ders, and by their diſcretions to make good and rea<g ref="char:EOLhyphen"/>ſonable Laws and Conſtitutions for the correction and better rule and government of the Freemen of the ſaid Fellowſhip.</p>
+            <p>
+               <hi>It is</hi> alſo Ordained, That from henceforth the <note place="margin">Reading the Ordinances.</note> Wardens of the ſaid Craft of <hi>Tylers</hi> and <hi>Bricklayers,</hi> ſhall yearly, that is to ſay, three or four times of the year, cauſe all the Ordinances made above for the good rule and government of the ſaid Art, openly to be read in their Common-Hall, when they then and there ſhall aſſemble, to the intent that none of the ſaid craft ſhall excuſe him by any ignorance or lack of knowledge of the ſame.</p>
+            <p>
+               <hi>It is</hi> Ordered, That none of this Company ſhall <note place="margin">Task-work.</note> take any maner of task-work in <hi>London,</hi> or the Sub<g ref="char:EOLhyphen"/>urbs thereof, of any Maſon, Carpenter, Plaiſterer, or other workman that taketh any work belonging to this Company, by task, but work with him by Day-work, without licenſe of the Maſter, Wardens and Aſ<g ref="char:EOLhyphen"/>ſiſtants, or the more part of them, upon pain of forty ſhillings.</p>
+            <p>
+               <hi>It is Ordered,</hi> That if any of this Company do ſell <note place="margin">Selling Ap<g ref="char:EOLhyphen"/>prentices.</note> or do away, or make over his Apprentice to any, ei<g ref="char:EOLhyphen"/>ther free of this Company, or to any other, or to any forrein, without the conſent of the Maſter, Wardens, and Aſſiſtants of this Company, or the more part of them, that then every perſon ſo ſetting over his Ap<g ref="char:EOLhyphen"/>prentice,
+<pb n="11" facs="tcp:151071:7"/> and he of this Company that taketh ſuch Apprentice without the ſame conſent, ſhall forfeit and pay to this Company five pounds, and from thence<g ref="char:EOLhyphen"/>forth ſuch perſons ſo offending, ſhall from thenceforth be barred to take any Apprentice until the years of him ſo ſet over, be expired.</p>
+            <p>
+               <hi>It is Ordered,</hi> That if any perſon or perſons of this <note place="margin">Arreſting.</note> Company, ſhall at any time hereafter ſue, arreſt, or impriſon, by any ways or means, any other of the ſame Company, without the licenſe or conſent of the Ma<g ref="char:EOLhyphen"/>ſter, Wardens and Aſſiſtants, or the more part of them, that every ſuch perſon ſo offending, ſhall forfeit to the uſe of this Company, ſix ſhillings eight pence.</p>
+            <p>
+               <hi>Alſo it is Ordered,</hi> That none of this Company <note place="margin">Apprentices for eight years.</note> ſhall take any Apprentice for any leſs term then for eight years, and none to be bound under the ſame term, and during the ſame term to have no other, otherwiſe then the Ordinances doth allow.</p>
+         </div>
+         <div type="oath">
+            <pb n="12" facs="tcp:151071:8"/>
+            <head>The OATH of the VVardens.</head>
+            <p>YE ſhall ſwear to be true to our Sovereign Lady the Queens Majeſty, her Heirs and Succeſſors, Kings and Queens of this Realm, and that ye ſhall well and truly order and govern all the Fellowſhip of the Art or Myſtery of <hi>Tylers</hi> and <hi>Bricklayers,</hi> whereof ye are choſen Maſter and Wardens for this preſent year; And the good Rules and Ordinances made for the preſerva<g ref="char:EOLhyphen"/>tion of the ſame, or that hereafter ſhall be made, ye ſhall keep, and ſee to be kept to the beſt of your powers; All Defaults committed to the contrary, whereof you ſhall have underſtanding, either by your own knowledge or elſe by information of other, ye ſhall duly, and accord<g ref="char:EOLhyphen"/>ing to juſtice, ſee to be puniſhed and corrected, ſparing no man for love, nor grieving any man for hate, other<g ref="char:EOLhyphen"/>wiſe then you ought to do of right. And ye ſhall truly accompt and anſwer all ſuch Money and Goods as hath, or ſhall come into your hands to the uſe of the ſame Com<g ref="char:EOLhyphen"/>pany. Ye ſhall alſo well, truly, and honeſtly behave your ſelf in all things that belong to your Offices, while ye be Maſter and Wardens, to the utmoſt of your powers, cunning and knowledge. <hi>So God you help,</hi> &amp;c.</p>
+         </div>
+         <div type="text">
+            <pb n="13" facs="tcp:151071:8"/>
+            <p>ALſo it is Ordered, That every one of this Com<g ref="char:EOLhyphen"/>pany, <note place="margin">Chamflets.</note> as well of the Livery as of the Yeoman<g ref="char:EOLhyphen"/>ry, that maketh any Chimney or Chimneys, ſhall cut and hew the Chamflets two inches and a half ſquare, and alſo well, workmanly, and cleanly joynt and finiſh all ſuch work as they ſhall take in hand, upon pain of mending the ſame work, and to pay for a Fine ſix ſhillings eight pence.</p>
+         </div>
+         <div type="oath">
+            <pb n="14" facs="tcp:151071:9"/>
+            <head>The OATH of the Maſter and Wardens.</head>
+            <p>YE ſhall Swear to be true to our Sovereign Lord the Kings Majeſty, His Heires and Succeſ<g ref="char:EOLhyphen"/>ſours, Kings of this Realm; And that ye ſhall well and truly order and govern all the Fellowſhip of the Art or Myſtery of <hi>Tylers</hi> and <hi>Brick-layers,</hi> whereof ye are Maſter and Wardens for this preſent year; And the good Rules and Ordinances made for the preſerva<g ref="char:EOLhyphen"/>tion of the ſame, or that hereafter ſhall be made, ye ſhall keep, and ſee to be kept to the beſt of your powers; All Defaults committed to the contrary, whereof you ſhall have underſtanding, either by your own knowledge, or elſe by information of other, ye ſhall duly, and accord<g ref="char:EOLhyphen"/>ing to juſtice, ſee to be puniſhed and corrected, ſparing no man for love, nor grieving any man for hate, other<g ref="char:EOLhyphen"/>wiſe then you ought to do of right. And ye ſhall truly accompt and anſwer all ſuch Money and Goods as hath, or ſhall come into your hands to the uſe of the ſame Com<g ref="char:EOLhyphen"/>pany. Ye ſhall alſo well, truly, and honeſtly behave your ſelf in all things that belong to your Offices, while ye be Maſter and Wardens, to the utmoſt of your powers, cunning and knowledge. <hi>So God you help,</hi> &amp;c.</p>
+         </div>
+         <div type="oath">
+            <pb n="15" facs="tcp:151071:9"/>
+            <head>THE OATH OF THE FREEMEN.</head>
+            <p>YOU ſhall Swear, That you do teſtifie and de<g ref="char:EOLhyphen"/>clare in your Conſcience, that the Kings Majeſty is the onely Supream Governour of this Realm, and of all other His Highneſs Do<g ref="char:EOLhyphen"/>minions and Countreys, as well in Spirituall or Eccleſiaſtical things or Cauſes, as Temporal, And that no Forreign Prince, Perſon, Prelate, State, or Potentate hath, or ought to have any Juriſdiction, Power, Superiority, Preheminence or Authority, Eccleſiaſtical or Spiritual, within theſe His Majeſties Realms.</p>
+            <p>And therefore ye ſhall utterly renounce and for<g ref="char:EOLhyphen"/>ſake all Forreign Juriſdictions, Powers, Superiori<g ref="char:EOLhyphen"/>ties, and Authorities; and ſhall promiſe, that from henceforth ye ſhall bear Faith and true Allegiance to the Kings Highneſs, His Heirs and lawful Succeſ<g ref="char:EOLhyphen"/>ſours, and to your power ſhall aſſiſt and defend all Juriſdictions, Priviledges, and Preheminences, and Authorities granted or belonging to the Kings High<g ref="char:EOLhyphen"/>neſs, His Heirs and Succeſſors, or united or annexed to the Imperial Crown of theſe Realms.</p>
+            <pb n="16" facs="tcp:151071:10"/>
+            <p>You ſhall ſwear alſo to be true and faithful to this Craft of <hi>Tylers</hi> and <hi>Bricklayers</hi> of the City of <hi>London,</hi> keeping as much as in your power is, love and charity amongſt them, not moving or ſtirring any occaſion of ſtrife or debate, through which the ſaid Craft or My<g ref="char:EOLhyphen"/>ſtery, or any perſon of the ſame, might be hindred or hurt.</p>
+            <p>Alſo ye ſhall in all lawful things be obedient always unto the Maſter and Wardens of the ſaid Craft for the time being.</p>
+            <p>And all the lawful Rules, Statutes, and Ordinan<g ref="char:EOLhyphen"/>ces made and ordained, or hereafter to be made and ordained, for the weal of the ſaid Craft, well and tru<g ref="char:EOLhyphen"/>ly ye ſhall maintain and ſupport, to the beſt of your power.</p>
+            <p>Alſo ye ſhall duly and truly pay, or do to be paid, the Quarteridges and all other Duties yearly, belong<g ref="char:EOLhyphen"/>ing to the ſaid Fellowſhip.</p>
+            <p>And be contributory to all manner of lawful and reaſonable charges belonging, and neceſſarily apper<g ref="char:EOLhyphen"/>taining, as other Brethren do, to the beſt of your power.</p>
+            <p>Alſo ye ſhall obey all manner of lawful Summons done in the ſaid Maſter and Wardens names, by their Officer therefore aſſigned.</p>
+            <p>You ſhall not diſcover the lawful Counſel of this myſtery that you ſhall have knowledge of, which ſhould be kept ſecret within your ſelves.</p>
+            <p>Theſe points, and all other good Rules and Ordi<g ref="char:EOLhyphen"/>nances made, and to be made, you ſhall obey, keep, and maintain to your power, as near as God ſhall give you grace. <hi>So help you God,</hi> &amp;c.</p>
+         </div>
+         <div type="text">
+            <pb n="17" facs="tcp:151071:10"/>
+            <head>25. <hi>Die Julii.</hi> 1586.</head>
+            <p>IT is Ordered and Agreed this preſent day, by the Maſter, Wardens and Aſſiſtants of this Company, That if any of this Company being warned to the Burial of any perſon or perſons of this Company, or if his or their wife, do miſs, and come not to ſuch place, and hour, as he shall be warned to attend at every ſuch Burial, Every perſon ſo miſſing, to pay Twelve pence, except he or they have a lawful ex<g ref="char:EOLhyphen"/>cuſe.</p>
+         </div>
+         <div type="oath">
+            <pb n="18" facs="tcp:151071:11"/>
+            <head>The OATH of the Wardens.</head>
+            <p>YE ſhall Swear to be true to our Sovereign Lady the Queens Majeſty, Her Heirs and Succeſſours, Kings and Queens of this Realm; And that ye ſhall well and truly order and govern all the Fellowſhip of the Art or Myſtery of <hi>Tylers</hi> and <hi>Brick-layers,</hi> whereof ye be choſen Wardens for one year.</p>
+            <p>And the good Rules and Ordinances made for the pre<g ref="char:EOLhyphen"/>ſervation of the ſame, or that hereafter ſhall be made, ye ſhall keep, and ſee to be kept to the beſt of your powers. And all Defaults committed to the contrary, whereof you ſhall have underſtanding, either by your own knowledge, or elſe by information of other, ye ſhall duly, and accord<g ref="char:EOLhyphen"/>ing to juſtice &amp; equity, ſee to be puniſhed and corrected, ſparing no man for love, nor grieving any man for hate, otherwiſe then you ought to do of right. And ye ſhal truly accompt and anſwer all ſuch Money and Goods as hath, or ſhall come into your hands to the uſe of the ſame Com<g ref="char:EOLhyphen"/>pany. Ye ſhall alſo well, truly, and honeſtly behave your ſelf in all things that belong to your Offices, while ye be Wardens, to the utmoſt of your powers and cunning. <hi>So God you help,</hi> &amp;c.</p>
+         </div>
+         <div type="text">
+            <pb n="19" facs="tcp:151071:11"/>
+            <head>
+               <hi>Ordinances made by the whole Company,</hi> tempore <hi>Symon Credenſe, Magiſter.</hi>
+            </head>
+            <p>IT is alſo Ordained, That none of the ſaid Compa<g ref="char:EOLhyphen"/>ny ſhall work with any Carpenter, Maſon, Plaiſte<g ref="char:EOLhyphen"/>rer, or other workman not of this Company, that ta<g ref="char:EOLhyphen"/>keth any thing by Task, belonging to this Science, nor work, or do any of the ſaid work ſo taken by any of them, without the licenſe of the ſaid Maſter and Wardens, upon pain of forfeiture of forty ſhillings for every time ſo doing.</p>
+            <p>It is alſo Ordered, That none of the ſaid Company ſhall ſell, or otherwiſe do away his Apprentice to any, but onely to one of this Company, and that with the licenſe of the Maſter and Wardens, upon pain of for<g ref="char:EOLhyphen"/>feiture of forty ſhillings for every time ſo doing.</p>
+            <closer>
+               <signed>Tempore <hi>Rogeri Gathorn, William Emerton,</hi> and <hi>Tho. Webſter.</hi>
+               </signed> It is alſo Ordered, That if any of the Company do miſs, and come not to ſuch place, and hour, as they ſhall be warned, to any Offering of any Brother of the Company, then to pay twelve pence.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
